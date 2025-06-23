@@ -1,0 +1,79 @@
+test_text,retrieval_id,cos_sim,cos_distance,label
+Madame wanakuaga aje story za sex,35,0.58123136,0.41876864,1
+Age gani ni poa kuanza na boy,376,0.69267035,0.30732965,1
+Niambie vile nitavibe na boys wa class,205,0.5582326,0.4417674,1
+Pregnancy huwa aje?,97,0.5802236,0.41977638,1
+Mbona wasichana wananuka privates?,301,0.60776556,0.39223444,1
+Nitajua aje niko preg?,301,0.7412786,0.2587214,1
+"Naogopa kukua na dame, mimi ni gay",181,0.61493635,0.38506365,1
+Periods zangu ni za uchungu,422,0.7483107,0.2516893,1
+Kunaedaga aje mtu akianza periods,425,0.59873253,0.40126747,1
+Mbona nanyonji,1,0.6534118,0.3465882,1
+Mtu anaweza abort wapi?,413,0.5079428,0.4920572,1
+Mamangu haniskizi juu ya mambo ya madame,254,0.5494325,0.45056748,1
+Mtu anafanaya aje ndio asinuke nunu?,147,0.65861636,0.34138364,1
+Nataka kuwatch porn but pastor anadai sio poa,32,0.6593385,0.34066153,1
+Kumasterbate ni mbaya?,376,0.64445186,0.35554814,1
+Sijui niende wapi coz nina ball,333,0.6238991,0.3761009,1
+Niko frustrated na depressed,413,0.672114,0.327886,1
+"Teacher wangu anakikatia, nido?",65,0.58989084,0.41010916,1
+"Nataka ku-break up na my boy, nifanye aje?",505,0.64661294,0.35338706,1
+Ntajua aje ka my boyfriend ako na dame mwingine,631,0.7090173,0.29098272,1
+Nataka kujua wewe ni nani,192,0.7131271,0.28687292,1
+"Nilikua married at a young age, saa hii nataka divorce",369,0.60357684,0.39642316,1
+Dame yangu ameniwacha,181,0.5412319,0.45876813,1
+"Niko in love na a guy in my neighbourhood, nitamwambia aje?",505,0.6666659,0.3333341,1
+Sperm inakaa aje?,100,0.648641,0.351359,1
+Una picha za vagina na penis,305,0.54488343,0.45511657,1
+"Nimeambiwa juu ya story za manospere, niende kutafut awapi hawa watu",283,0.5901505,0.40984952,1
+"I am heartbroken , nina uchungu mwingi",33,0.48964837,0.51035166,1
+"Mzae wangu ni mzii, nafeel stressed",413,0.5835009,0.41649908,1
+Wewe ni conman au uko real?,78,0.5486186,0.4513814,1
+"Nilikuwa natafuta job huyo mdosi akaniambia anataka tufanye sex kabla anipatie, what do I do?",181,0.6565669,0.34343308,1
+STI ni nini?,325,0.99999994,5.9604645e-08,1
+"Nataka kuavoid HIV, beshte yangu anayo",81,0.68271637,0.31728363,1
+Mna CD za Sare?,301,0.6067321,0.39326793,1
+Mna dawa za ukedi?,520,0.6488388,0.35116118,1
+Nta avoid kuwa na ball aje?,321,0.8156114,0.18438858,1
+P2 ntatoa wapi?,520,0.5110813,0.48891872,1
+Ninormal kucheki porno,26,0.60695505,0.39304495,1
+"Siwezi beba hii ball, nataka ku-abort",321,0.61492205,0.38507795,1
+Natafuta job,170,0.4401691,0.5598309,0
+Kuendesha gari nilazima?,205,0.69704586,0.30295414,0
+Ninanjaa,333,0.61234754,0.38765246,0
+Fuck you,473,0.29862693,0.7013731,0
+Mjinga fala stupid,64,0.47839147,0.52160853,0
+"Nauza everything, unataka?",181,0.5117398,0.4882602,0
+Nyumba huwa how much,594,0.500489,0.499511,0
+"Life ni hard, wewe unaishi aje?",631,0.58710235,0.41289765,0
+"Nataka kustudy, mna scholarships?",198,0.49187794,0.5081221,0
+"Nikivaa nguo hainitoshei, mtu huenda market au?",147,0.5797996,0.4202004,0
+Unafuraha at your job?,185,0.38015053,0.61984944,0
+Tungoje next season,396,0.40042862,0.59957135,0
+Niko sure nimekosea kidogo,301,0.5819977,0.4180023,0
+There is no stima,513,0.43117565,0.56882435,0
+"Mtu anakata miti, climate change itatufikia",162,0.52623034,0.47376966,0
+Mko pande gani I visit,309,0.52651536,0.47348464,0
+Beshte yangu ni jealous,64,0.5692396,0.43076038,0
+Nimetoa watu insta,325,0.51140827,0.48859173,0
+Nipe links za porn,542,0.50873625,0.49126375,0
+Nikitaka ku-dema niende wapi?,520,0.6002899,0.39971012,0
+Unajua aje which career or job you should take?,387,0.46808952,0.5319105,0
+How do I pass grade 9,237,0.28429502,0.715705,0
+"I am an entrepreneur, am having business problems",142,0.28679654,0.71320343,0
+Story ya kubet na sports pesa naanza aje?,338,0.5030422,0.49695778,0
+Nataka manifestation of wealth and abudance,192,0.4841014,0.5158986,0
+Song latest kwa tv ni?,376,0.52114534,0.47885466,0
+"Natafuta reliable source ya politics, sizielevi sana",301,0.47772884,0.52227116,0
+"Nina fifty bob, aki sijui itanisaidia nini, mna pa kulala",657,0.61474395,0.38525605,0
+Gava inaweza tupatia loans za bizna?,301,0.5720795,0.42792052,0
+Kuna job za vijanaa mtaani,433,0.58478606,0.41521394,0
+Jobs na projects kwa mtaa mtu anatoa wapi,657,0.5591951,0.4408049,0
+Watoi wako shule na hakuna school fees,222,0.49918672,0.50081325,0
+Securiy kwa eststate ni noma,376,0.598961,0.401039,0
+"Mathegi  ni wengi, tusaidie",170,0.48523295,0.51476705,0
+"Huku ni nare, siwezi tembea, iteni polisi watusaidie",365,0.60930115,0.39069885,0
+"Polisi wanatutesa, watu was societies mtusaidie vijanaa",147,0.48496345,0.5150366,0
+"Kuna watoi wanatalent, tusaidika aje kuexploit hiyo talent",51,0.5611116,0.43888837,0
+Kanjo inadeal aje na mastadi,365,0.6040044,0.39599562,0
+"Tumekuwa tukiishi poa, na sasa madevelopers wankuja kuvunja hao. Tutaenda wapi?",9,0.6546366,0.34536338,0
