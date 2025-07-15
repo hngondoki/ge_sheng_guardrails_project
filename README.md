@@ -17,14 +17,13 @@ WARNING: The information contained in the datasets is of a sensitive nature.
 ⚠️ Content Advisory:
 Please be advised that the datasets referenced in this presentation contain sensitive and potentially explicit material, particularly related to mental, sexual, and reproductive health. This content is included strictly for academic and research purposes, and is presented with the intent to foster informed, respectful, and evidence-based discussion. Viewer discretion is advised.
 
-wz_qa.csv: This is a file with 308 sheng data (questions and answers) that has been vetted and labelled already. The whole data set is IT and the questions + Answers will be combined to provide the vocabulary within the sentence embeddings. It has 2 columns, question and answer
-wz_eng_labeled.csv: This contains 117 rows of data in english with labelled classifications of IT/OOT.
+### Data description
+- wz_qa.csv: This is a file with 308 sheng data (questions and answers) that has been vetted and labelled already. The whole data set is IT and the questions + Answers will be combined to provide the vocabulary within the sentence embeddings. It has 2 columns, question and answer
+- wz_eng_labeled.csv: This contains 117 rows of data in english with labelled classifications of IT/OOT.
 human_generated_training_data.csv: This is a 78 Row  list of manually generated and labelled sheng data
-wz_inference_data.csv: This is a 25455 rows of sheng data that is unlabelled. 
-human_labeled_inference_results.csv: A subset of 450 rows of sheng data generated and manually labelled as a subset
-small_test_data: This is a manual generated and labelled sheng data listing 10 items to allow quick evaluation of accuracy through visual inspection (eyeballing).
-<img width="3721" height="315" alt="image" src="https://github.com/user-attachments/assets/91ef0f35-1195-464f-a1d0-13026f4f96ac" />
-
+- wz_inference_data.csv: This is a 25455 rows of sheng data that is unlabelled. 
+- human_labeled_inference_results.csv: A subset of 450 rows of sheng data generated and manually labelled as a subset
+- small_test_data: This is a manual generated and labelled sheng data listing 10 items to allow quick evaluation of accuracy through visual inspection (eyeballing).
 
 ## Approach
 There are 5 main areas in this document:
